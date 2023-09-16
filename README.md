@@ -1,12 +1,6 @@
 <p align="center"><img src="docs/images/logo.png" alt="E Penguin Shop" style="margin: 0px 15%;text-align:center;"/>
 </p>
-<p align="center">
-<img src="https://img.shields.io/github/issues/samayun/ecommerce-laravel-vue" alt="Issues">
-<img src="https://img.shields.io/github/forks/samayun/ecommerce-laravel-vue" alt="Forks">
 
-<img src="https://img.shields.io/github/stars/samayun/ecommerce-laravel-vue?color=%2312ff65&label=Stars&logo=Star&logoColor=green&style=flat" alt="Stars">
-<img src="https://img.shields.io/github/license/samayun/ecommerce-laravel-vue" alt="License">
-</p>
 
 ## :heart: Application Name: <b style="color:green;"> E Penguin Shop </>
 
@@ -209,4 +203,4 @@
 </table>
 
 :heart: Happy Coding :clap: 🚀
-![twitter](https://img.shields.io/twitter/follow/samayunmc.svg?style=social)
+
